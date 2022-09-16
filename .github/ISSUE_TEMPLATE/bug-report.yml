@@ -1,6 +1,6 @@
-name: Crash Report
-description: Report a bug that crashes the game or prevents startup.
-labels: [ "status: unverified", "bug: crash" ]
+name: Bug Report
+description: Report a bug where something is not working as expected, which does not crash the game.
+labels: [ "status: unverified", "bug: gameplay" ]
 body:
   - type: dropdown
     id: platform
@@ -41,21 +41,29 @@ body:
     validations:
       required: true
   - type: textarea
-    id: reproduction
+    id: expected
     attributes:
-      label: Steps to Reproduce
-      description: How to reproduce the crash.
-      placeholder: "Example: 1) I did X..."
+      label: Expected Behavior
+      description: What you expected to happen. Attach screenshots here as necessary.
+      placeholder: "Example: Expected to produce X by consuming Y."
     validations:
       required: true
   - type: textarea
-    id: crash-report
+    id: result
     attributes:
-      label: Crash Report
-      description: "If you are using Geode, you can find the crash report in `geode/crashlogs/`, if one was created. If you are using MacOS you can find the crash report in `Console.app` too. Additionally, please attach latest log in `geode/log/`. If either or both files do not exist, state such. Please link to a paste site with their content, such as GitHub Gists or Pastebin. **Do not paste the contents of either these files directly into the text box.**"
-      placeholder: "Example: a link to a paste site with the crash report and latest.log."
+      label: Actual Behavior
+      description: What happened despite your expectations. Attach screenshots here as necessary.
+      placeholder: "Example: Produced one X but Y was not consumed."
     validations:
-      required: false
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to Reproduce
+      description: How to reproduce the bug.
+      placeholder: "Example: 1) I did X..."
+    validations:
+      required: true
   - type: textarea
     id: additional-info
     attributes:
@@ -66,4 +74,4 @@ body:
       required: false
   - type: markdown
     attributes:
-      value: Thank you for taking the time to fill out this crash report. I love you <3
+      value: Thank you for taking the time to fill out this bug report. I love you <3
