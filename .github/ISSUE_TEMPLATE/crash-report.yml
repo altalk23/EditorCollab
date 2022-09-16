@@ -1,6 +1,6 @@
 name: Crash Report
 description: Report a bug that crashes the game or prevents startup.
-labels: [ "status: unverified", "bug: crash" ]
+labels: [ "unverified", "crash" ]
 body:
   - type: dropdown
     id: platform
