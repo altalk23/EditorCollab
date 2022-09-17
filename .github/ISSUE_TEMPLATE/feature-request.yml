@@ -2,17 +2,6 @@ name: Request a Feature
 description: Request a new feature or a change to an existing one.
 labels: [ "feature" ]
 body:
-  - type: dropdown
-    id: platform
-    attributes:
-      label: Platform
-      description: The platform you are using for suggesting a feature.
-      options:
-        - "MacOS - Geode"
-        - "Windows - Geode"
-        - "Windows - Standalone"
-    validations:
-      required: true
   - type: input
     id: version
     attributes:
