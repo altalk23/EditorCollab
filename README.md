@@ -6,9 +6,14 @@ Editor Collab is a Geometry Dash mod that allows multiple users to edit same lev
 
 ## How to use
 
-You can download the client from [releases](https://github.com/altalk23/EditorCollab/releases/latest). If you have [Geode](https://github.com/geode-sdk/geode) set up on Windows, I would recommend using the Geode release, otherwise the standalone setup instructions will be given later. For MacOS only Geode release exists, so you will need that.  
+You can download the client from [releases](https://github.com/altalk23/EditorCollab/releases/latest). If you have [Geode](https://github.com/geode-sdk/geode) set up on Windows, I would recommend using the Geode release, otherwise the standalone setup instructions are given below. For MacOS only Geode release exists, so you will need that.  
 
-For Geode put the .geode file inside the geode/mods folder and the mod should start functioning.
+For Geode put the .geode file inside the geode/mods/ folder and the mod should start functioning.
+
+For standalone Windows release, follow these steps:
+- Extract EditorCollab-Resources.zip
+- Move EditorCollab folder into Resources/ folder
+- Load EditorCollab-Standalone.dll with a dll injector or a mod loader or whatever you Windows users call it 
 
 Account screen is located in the same place as the Geometry Dash account screen, press the "TE" button to access. 
 
