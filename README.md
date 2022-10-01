@@ -12,8 +12,10 @@ For Geode put the .geode file inside the geode/mods/ folder and the mod should s
 
 For standalone Windows release, follow these steps:
 - Extract EditorCollab-Resources.zip
-- Move EditorCollab folder into Resources/ folder
+- Move EditorCollab folder into Resources/ folder (not the invididual files, the folder itself)
 - Load EditorCollab-Standalone.dll with a dll injector or a mod loader or whatever you Windows users call it 
+
+If you crash while opening the created levels screen, it means you did not do the second step properly. Move the folder itself and not the indiviual files.
 
 Account screen is located in the same place as the Geometry Dash account screen, press the "TE" button to access. 
 
