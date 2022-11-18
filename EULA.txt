@@ -1,0 +1,98 @@
+Last Updated in 18 November 2022.
+
+1 Scope of the Agreement
+By receiving, opening the file package, and/or using Editor Collab(“Software”) containing this software, you agree that this End User License Agreement(EULA) is a legally binding and valid contract and agree to be bound by it. You agree to abide by the intellectual property laws and all of the terms and conditions of this Agreement.
+
+Unless you have a different license agreement signed by Alkim Altintas your use of Editor Collab indicates your acceptance of this license agreement and warranty.
+
+2 Account Registration
+You may need to register for an Editor Collab account in order to access any Services. Any registration information that you provide to us must be accurate, current and complete. You must also update your information so that we may send notices, statements and other information to you by email or through your account. You are responsible for all actions taken through your accounts.
+
+3 Distribution
+Editor Collab and the license herein granted shall not be copied, shared, distributed, re-sold, offered for re-sale, transferred or sub-licensed in whole or in part except that you may make one copy for archive purposes only.
+
+4 User Agreement
+Each licensed copy of Editor Collab may be used on one single computer location by one user. Use of Editor Collab means that you have loaded, installed, or run Editor Collab on a computer or similar device. If you install Editor Collab onto a multi-user platform, server or network, each and every individual user of Editor Collab must be licensed separately.
+
+You may make one copy of Editor Collab for backup purposes, providing you only have one copy installed on one computer being used by one person. Other users may not use your copy of Editor Collab. The assignment, sublicense, networking, sale, or distribution of copies of Editor Collab are strictly forbidden without the prior written consent of Alkim Altintas. It is a violation of this agreement to assign, sell, share, loan, rent, lease, borrow, network or transfer the use of Editor Collab. If any person other than yourself uses Editor Collab registered in your name, regardless of whether it is at the same time or different times, then this agreement is being violated and you are responsible for that violation.
+
+4.2 Use Restrictions
+You shall use Editor Collab in compliance with all applicable laws and not for any unlawful purpose. Without limiting the foregoing, use, display or distribution of Editor Collab together with material that is pornographic, racist, vulgar, obscene, defamatory, libelous, abusive, promoting hatred, discriminating or displaying prejudice based on religion, ethnic heritage, race, sexual orientation or age is strictly prohibited.
+
+Except as otherwise expressly permitted in this Agreement, you will not: (a) rent, lease, reproduce, modify, adapt, create derivative works of, distribute, sell, sublicense, transfer, or provide access to the Software to a third party, (b) use the Software for the benefit of any third party, (c) incorporate Software into a product or service you provide to a third party, (d) interfere with any license key mechanism in the Products or otherwise circumvent mechanisms in the Software intended to limit your use, (e) reverse engineer, disassemble, decompile, translate, or otherwise seek to obtain or derive the source code, underlying ideas, algorithms, file formats or non-public APIs to any Software, except as permitted by law, (f) remove or obscure any proprietary or other notices contained in any Software, or (g) publicly disseminate information regarding the performance of the Software.
+
+4.3 Copyright Restriction
+This Software contains copyrighted material and other proprietary material. You shall not, and shall not attempt to, modify, reverse engineer, disassemble or decompile Editor Collab.
+Alkim Altintas retains sole and exclusive ownership of all right, title and interest in and to Editor Collab and all Intellectual Property rights relating thereto.
+Copyright law and international copyright treaty provisions protect all parts of Editor Collab, products and services. No program, code, part, image, audio sample, or text may be copied or used in any way by the user except as intended within the bounds of the single user program. All rights not expressly granted hereunder are reserved for Alkim Altintas.
+
+4.4 Warranties
+Except as expressly stated in writing, Alkim Altintas makes no representation or warranties in respect of this Software and expressly excludes all other warranties, expressed or implied, oral or written, including, without limitation, any implied warranties of merchantable quality or fitness for a particular purpose.
+
+4.5 Governing Law
+This Agreement shall be governed by the law of the Turkey applicable therein. You hereby irrevocably attorn and submit to the non-exclusive jurisdiction of the courts of Turkey therefrom. If any provision shall be considered unlawful, void or otherwise unenforceable, then that provision shall be deemed severable from this License and not affect the validity and enforceability of any other provisions.
+
+4.6 Termination
+Any failure to comply with the terms and conditions of this Agreement will result in automatic and immediate termination of this license. Upon termination of this license granted herein for any reason, you agree to immediately cease use of Editor Collab and destroy all copies of Editor Collab supplied under this Agreement. The financial obligations incurred by you shall survive the expiration or termination of this license.
+
+5 Software Terms
+
+5.1 Your License Rights
+Subject to the terms and conditions of this Agreement, Alkim Altintas grants you a non-exclusive, non-sub-licensable and non-transferable license to install and / or use the Software during the applicable License Term in accordance with this Agreement and your applicable Scope of Use. Your License Term will end upon any termination of this Agreement.
+
+5.2 Third Party Code
+The Software includes code and libraries licensed to us by third parties, including open source software.
+
+6 Hosted Services Terms
+
+6.1 Access to Hosted Services
+Subject to the terms and conditions of this Agreement, Alkim Altintas grants you a non-exclusive right to access and use the Hosted Services during the applicable Subscription Term (as defined below) in accordance with this Agreement and your applicable Scope of Use. If Alkim Altintas offers client software (e.g., a desktop or mobile application) for any Hosted Service, you may use such software solely with the Hosted Service, subject to the terms and conditions of this Agreement. You acknowledge that our Hosted Services are on-line, subscription-based products and that we may make changes to the Hosted Services from time to time.
+
+6.2 Subscription Terms and Renewals
+Hosted Services are provided on a subscription basis for a set term specified in your Order (“Subscription Term”). Except as otherwise specified in your Order, all subscriptions will automatically renew for periods equal to your initial Subscription Term (and you will be charged at the then-current rates) unless you cancel your subscription through your account. If you cancel, your subscription will terminate at the end of then-current billing cycle, but you will not be entitled to any credits or refunds for amounts accrued or paid prior to such termination.
+
+6.3 Credentials
+You must ensure that all Authorized Users keep their user IDs and passwords for the Hosted Services strictly confidential and not share such information with any unauthorized person. User IDs are granted to individual, named persons and may not be shared. You are responsible for any and all actions taken using your accounts and passwords, and you agree to immediately notify Alkim Altintas of any unauthorized use of which you become aware.
+
+6.4 Your Data
+“Your Data” means any data, content, code, video, images or other materials of any type that you upload, submit or otherwise transmit to or through Hosted Services. You will retain all right, title and interest in and to Your Data in the form provided to Alkim Altintas. Subject to the terms of this Agreement, you hereby grant to Alkim Altintas a non-exclusive, worldwide, royalty-free right to (a) collect, use, copy, store, transmit, modify and create derivative works of Your Data, in each case solely to the extent necessary to provide the applicable Hosted Service to you and (b) for Hosted Services that enable you to share Your Data or interact with other people, to distribute and publicly perform and display Your Data as you (or your Authorized Users) direct or enable through the Hosted Service. Alkim Altintas may also access your account or instance in order to respond to your support requests.
+
+6.5 Security
+Alkim Altintas implements security procedures to help protect Your Data from security attacks. However, you understand that use of the Hosted Services necessarily involves transmission of Your Data over networks that are not owned, operated or controlled by us, and we are not responsible for any of Your Data lost, altered, intercepted or stored across such networks. We cannot guarantee that our security procedures will be error-free, that transmissions of Your Data will always be secure or that unauthorized third parties will never be able to defeat our security measures or those of our third party service providers.
+
+6.6 Storage & Computing Limits
+There may be storage and computing limits associated with a particular Hosted Service. Alkim Altintas reserves the right to charge for additional storage and computing or overage fees. We may impose new, or may modify existing, storage and computing limits for the Hosted Services at any time in our discretion, with or without notice to you.
+
+6.7 Responsibility for Your Data
+
+6.7.1 General
+You must ensure that your use of Hosted Services and all Your Data is at all times compliant with our Acceptable Use Policy and all applicable local, state, federal and international laws and regulations (“Laws”). You represent and warrant that: (i) you have obtained all necessary rights, releases and permissions to provide all Your Data to Alkim Altintas and to grant the rights granted to Alkim Altintas in this Agreement and (ii) Your Data and its transfer to and use by Alkim Altintas as authorized by you under this Agreement do not violate any Laws or rights of any third party, including without limitation any intellectual property rights, rights of privacy, or rights of publicity, and any use, collection and disclosure authorized herein is not inconsistent with the terms of any applicable privacy policies. Other than its security obligations under Section 6.5 (Security), Alkim Altintas assumes no responsibility or liability for Your Data, and you shall be solely responsible for Your Data and the consequences of using, disclosing, storing, or transmitting it.
+
+6.7.2 Indemnity for Your Data
+You will defend, indemnify and hold harmless Alkim Altintas from and against any loss, cost, liability or damage, including attorneys’ fees, for which Alkim Altintas becomes liable arising from or relating to any claim relating to Your Data, including but not limited to any claim brought by a third party alleging that Your Data, or your use of the Hosted Services in breach of this Agreement, infringes or misappropriates the intellectual property rights of a third party or violates applicable law. This indemnification obligation is subject to your receiving (i) prompt written notice of such claim (but in any event notice in sufficient time for you to respond without prejudice); (ii) the exclusive right to control and direct the investigation, defence, or settlement of such claim; and (iii) all reasonable necessary cooperation of Alkim Altintas at your expense.
+
+6.8 Removals and Suspension
+Alkim Altintas has no obligation to monitor any content uploaded to the Hosted Services. Nonetheless, if we deem such action necessary based on your violation of this Agreement or in response to takedown requests that we receive, we may (1) remove Your Data from the Hosted Services or (2) suspend your access to the Hosted Services. We will generally alert you when we take such action and give you a reasonable opportunity to cure your breach, but if we determine that your actions endanger the operation of the Hosted Service or other users, we may suspend your access immediately without notice. You will continue to be charged for the Hosted Service during any suspension period. We have no liability to you for removing or deleting Your Data from or suspending your access to any Hosted Services as described in this section.
+
+6.9 Deletion at End of Subscription Term
+We may remove or delete Your Data within a reasonable period of time after the termination of your Subscription Term.
+
+7 Support and Maintenance
+Support and Maintenance for Software includes access to New Releases, if and when available. “New Releases” are bug fixes, patches, major or minor releases, or any other changes, enhancements, or modifications to the Software that we make generally commercially available.
+
+8 Confidentiality
+Except as otherwise set forth in this Agreement, each party agrees that all code, inventions, know-how, business, technical and financial information disclosed to such party (“Receiving Party”) by the disclosing party (“Disclosing Party”) constitute the confidential property of the Disclosing Party (“Confidential Information”), provided that it is identified as confidential at the time of disclosure. Any Editor Collab Technology and any performance information relating to the Products shall be deemed Confidential Information of Alkim Altintas without any marking or further designation. Except as expressly authorized herein, the Receiving Party will hold in confidence and not use or disclose any Confidential Information. The Receiving Party’s nondisclosure obligation shall not apply to information which the Receiving Party can document: (i) was rightfully in its possession or known to it prior to receipt of the Confidential Information; (ii) is or has become public knowledge through no fault of the Receiving Party; (iii) is rightfully obtained by the Receiving Party from a third party without breach of any confidentiality obligation; or (iv) is independently developed by employees of the Receiving Party who had no access to such information. The Receiving Party may also disclose Confidential Information if so required pursuant to a regulation, law or court order (but only to the minimum extent required to comply with such regulation or order and with advance notice to the Disclosing Party). The Receiving Party acknowledges that disclosure of Confidential Information would cause substantial harm for which damages alone would not be a sufficient remedy, and therefore that upon any such disclosure by the Receiving Party the Disclosing Party shall be entitled to appropriate equitable relief in addition to whatever other remedies it might have at law.
+
+9 Warranty and Disclaimer
+9.1 Due Authority
+Each party represents and warrants that it has the legal power and authority to enter into this Agreement, and that, if you are an entity, this Agreement and each Order is entered into by an employee or agent of such party with all necessary authority to bind such party to the terms and conditions of this Agreement.
+
+9.2 WARRANTY DISCLAIMER
+ALL PRODUCTS ARE PROVIDED “AS IS,” AND ALKIM ALTINTAS AND ITS SUPPLIERS EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES AND REPRESENTATIONS OF ANY KIND, INCLUDING ANY WARRANTY OF NON-INFRINGEMENT, TITLE, FITNESS FOR A PARTICULAR PURPOSE, FUNCTIONALITY, OR MERCHANTABILITY, WHETHER EXPRESS, IMPLIED, OR STATUTORY. YOU MAY HAVE OTHER STATUTORY RIGHTS, BUT THE DURATION OF STATUTORILY REQUIRED WARRANTIES, IF ANY, SHALL BE LIMITED TO THE SHORTEST PERIOD PERMITTED BY LAW. ALKIM ALTINTAS SHALL NOT BE LIABLE FOR DELAYS, INTERRUPTIONS, SERVICE FAILURES AND OTHER PROBLEMS INHERENT IN USE OF THE INTERNET AND ELECTRONIC COMMUNICATIONS OR OTHER SYSTEMS OUTSIDE THE REASONABLE CONTROL OF ALKIM ALTINTAS. TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER ALKIM ALTINTAS NOR ANY OF ITS THIRD PARTY SUPPLIERS MAKES ANY REPRESENTATION, WARRANTY OR GUARANTEE AS TO THE RELIABILITY, TIMELINESS, QUALITY, SUITABILITY, TRUTH, AVAILABILITY, ACCURACY OR COMPLETENESS OF ANY PRODUCTS OR ANY CONTENT THEREIN OR GENERATED THEREWITH, OR THAT: (A) THE USE OF ANY PRODUCTS WILL BE SECURE, TIMELY, UNINTERRUPTED OR ERROR-FREE; (B) THE PRODUCTS WILL OPERATE IN COMBINATION WITH ANY OTHER HARDWARE, SOFTWARE, SYSTEM, OR DATA; (C) THE PRODUCTS (OR ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE PRODUCTS) WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS); (D) ANY STORED DATA WILL BE ACCURATE OR RELIABLE OR THAT ANY STORED DATA WILL NOT BE LOST OR CORRUPTED; (E) ERRORS OR DEFECTS WILL BE CORRECTED; OR (F) THE PRODUCTS (OR ANY SERVER(S) THAT MAKE A HOSTED SERVICE AVAILABLE) ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
+
+10 Limitation of Liability
+NEITHER PARTY (NOR ITS SUPPLIERS) SHALL BE LIABLE FOR ANY LOSS OF USE, LOST DATA, FAILURE OF SECURITY MECHANISMS, INTERRUPTION OF BUSINESS, OR ANY INDIRECT, SPECIAL, INCIDENTAL, RELIANCE, OR CONSEQUENTIAL DAMAGES OF ANY KIND (INCLUDING LOST PROFITS), REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, EVEN IF INFORMED OF THE POSSIBILITY OF SUCH DAMAGES IN ADVANCE. NOTWITHSTANDING ANY OTHER PROVISION OF THIS AGREEMENT, ALKIM ALTINTAS’S AND ITS SUPPLIERS’ ENTIRE LIABILITY TO LICENSEE SHALL NOT EXCEED THE AMOUNT ACTUALLY PAID BY LICENSEE TO ALKIM ALTINTAS DURING THE PRIOR THREE (3) MONTHS UNDER THIS AGREEMENT. The parties agree that the limitations specified in this Section 10 (Limitation of Liability) will survive and apply even if any limited remedy specified in this Agreement is found to have failed of its essential purpose.
+
+11 Changes to this Agreement
+We may update or modify this Agreement from time to time, including any referenced policies and other documents. If a revision meaningfully reduces your rights, we will use reasonable efforts to notify you (by, for example, sending an email to the billing or technical contact you designate in the applicable Order, through your Editor Collab account, or in the Product itself). If we modify the Agreement during your License Term or Subscription Term, the modified version will be effective upon your next renewal of a License Term, Support and Maintenance term, or Subscription Term, as applicable. In this case, if you object to the updated Agreement, as your exclusive remedy, you may choose not to renew, including cancelling any terms set to auto-renew. With respect to No-Charge Products, accepting the updated Agreement is required for you to continue using the No-Charge Products. You may be required to click through the updated Agreement to show your acceptance. If you do not agree to the updated Agreement after it becomes effective, you will no longer have a right to use No-Charge Products. For the avoidance of doubt, any Order is subject to the version of the Agreement in effect at the time of the Order.
+
