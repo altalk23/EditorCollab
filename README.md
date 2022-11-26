@@ -67,4 +67,4 @@ Using:
 
  * [Minhook](https://github.com/TsudaKageyu/minhook) - [License](https://github.com/TsudaKageyu/minhook/blob/master/LICENSE.txt)
 
-Huge thanks to the Geode Development team for making me not suffer porting the mod to Windows. Love you [HJfod](https://twitter.com/hjfod), [Mat](https://twitter.com/mateus44_/), [PoweredByPie](https://github.com/poweredbypie/), and other people who helped me in some capacity.
+Huge thanks to the Geode Development team for making me not suffer porting the mod to Windows. Love you [HJfod](https://twitter.com/hjfod), [Mat](https://twitter.com/mateus44_), [PoweredByPie](https://twitter.com/poweredbypie), and other people who helped me in some capacity.
