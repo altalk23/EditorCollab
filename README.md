@@ -55,7 +55,9 @@ Developed by Alk1m123 (alk) with love and tears. Please support me!
 
  * [Github](https://github.com/altalk23/)
 
-Using:
+### Third Party Libraries
+
+ * [Geode](https://github.com/geode-sdk/geode) - [License](https://github.com/geode-sdk/geode/blob/main/LICENSE.txt)
 
  * [Websocketpp](https://github.com/zaphoyd/websocketpp) - [License](https://github.com/zaphoyd/websocketpp/blob/master/COPYING)
 
@@ -67,4 +69,14 @@ Using:
 
  * [Minhook](https://github.com/TsudaKageyu/minhook) - [License](https://github.com/TsudaKageyu/minhook/blob/master/LICENSE.txt)
 
-Huge thanks to the Geode Development team for making me not suffer porting the mod to Windows. Love you [HJfod](https://twitter.com/hjfod), [Mat](https://twitter.com/mateus44_), [PoweredByPie](https://twitter.com/poweredbypie), and other people who helped me in some capacity.
+ * [filesystem](https://github.com/gulrak/filesystem) - [License](https://github.com/gulrak/filesystem/blob/master/LICENSE)
+
+ * [json](https://github.com/nlohmann/json) - [License](https://github.com/nlohmann/json/blob/develop/LICENSE.MIT)
+
+ * [gzip-hpp](https://github.com/mapbox/gzip-hpp) - [License](https://github.com/mapbox/gzip-hpp/blob/master/LICENSE.md)
+
+## Thanks
+
+Huge thanks to the Geode Development team for making me not suffer porting the mod to Windows. Love you [HJfod](https://twitter.com/hjfod), [Mat](https://twitter.com/mateus44_/), [PoweredByPie](https://github.com/poweredbypie/), and other people who helped me in some capacity.
+
+Also big thanks to you for using my mod, either as a user or host. I love you. <3
