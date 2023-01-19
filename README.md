@@ -19,6 +19,7 @@ For Geode put the .geode file inside the geode/mods/ folder and the mod should s
 For standalone Windows release, follow these steps:
 - Extract EditorCollab-Resources.zip
 - Move EditorCollab folder into Resources/ folder
+- Put minhook.x32.dll inside the Geometry Dash folder if you don't have it already (if you are using any of HJFod's or matcool's mods you should have it)
 - Load EditorCollab-Standalone.dll with a mod loader
 
 ## Help, Bugs, Crashes, Questions, Feature Requests
