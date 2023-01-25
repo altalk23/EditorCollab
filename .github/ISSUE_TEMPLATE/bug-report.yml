@@ -14,7 +14,7 @@ body:
     validations:
       required: true
   - type: input
-    id: version
+    id: geode-version
     attributes:
       label: Geode Version
       description: The version of Geode you were using when this bug was encountered. If you do not know where to find this, look for the geode mods listing.
@@ -22,7 +22,7 @@ body:
     validations:
       required: true
   - type: input
-    id: version
+    id: editorcollab-version
     attributes:
       label: Editor Collab Version
       description: The version of Editor Collab you were using when this bug was encountered. If you do not know where to find this, look for the geode mods listing.
