@@ -1,6 +1,6 @@
 # Editor Collab
 
-The ultimate live multiplayer editor collaboration tool! Get the [latest release (v1.8.1)](https://github.com/altalk23/EditorCollab/releases/tag/v1.8.1)! Go to [the Patreon](https://www.patreon.com/alk1m123) to be able to host levels!
+The ultimate live multiplayer editor collaboration tool! Get the [latest release (v1.8.3)](https://github.com/altalk23/EditorCollab/releases/tag/v1.8.3)! Go to [the Patreon](https://www.patreon.com/alk1m123) to be able to host levels!
 
 ## About
 
