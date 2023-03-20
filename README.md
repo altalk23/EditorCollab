@@ -1,6 +1,6 @@
 # Editor Collab
 
-The ultimate live multiplayer editor collaboration tool! Get the [latest release (v1.8.0)](https://github.com/altalk23/EditorCollab/releases/tag/v1.8.0)! Go to [the Patreon](https://www.patreon.com/alk1m123) to be able to host levels!
+The ultimate live multiplayer editor collaboration tool! Get the [latest release (v1.8.1)](https://github.com/altalk23/EditorCollab/releases/tag/v1.8.1)! Go to [the Patreon](https://www.patreon.com/alk1m123) to be able to host levels!
 
 ## About
 
@@ -38,7 +38,7 @@ In the Editor Collab menu, you can see a box you can enter a code in. Get the 8 
 
 For hosts, when you open a level, you will see a button on the top right side of the screen, the share button. This button opens an menu that you can share your level from. "Share" button will share the currently opened level, and "Stop sharing" will stop the sharing of that level. The clipboard icon copies the level code to your clipboard. While you are still sharing the level, you can use the "Recover" feature to get a global undo and redo screen, in which you can change which actions are done.
 
-You can leave your shared level at any time, and join back using the Editor Collab menu. Your hosted level is listed at the top, clicking will put you back in the level.
+You can leave your shared level at any time, and join back using the Editor Collab menu. Your hosted level is listed at the top, clicking will put you back in the level. You can also save a copy of the level to your levels list, and look at previous level snapshots for older automatic saves. Just press the save button and enter the level name to the textbox that appears.
 
 The default sharing of the level determines who can join. Restricted means only the people you have whitelisted can join, viewer means people can join with the level code but can't edit, and editor means they can edit the level. In the next page of this menu, there is a user list. This is the whitelisted users and seperate from the default sharing. This means you can share your level with specific people and no one else can join even if they somehow found out the level code. This provides a secure way of collaborating with your users.
 
