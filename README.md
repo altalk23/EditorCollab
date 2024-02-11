@@ -1,5 +1,7 @@
 # Editor Collab
 
+Editor Collab **does not support** 2.2 yet. However, it is currently in the works. You can visit my [twitter](https://twitter.com/alk1m123) to get any updates on the process.
+
 The ultimate live multiplayer editor collaboration tool! Get the [latest release (v1.12.13)](https://github.com/altalk23/EditorCollab/releases/tag/v1.12.13)! Go to [the Patreon](https://www.patreon.com/alk1m123) to be able to host levels!
 
 Note: After a Geode version of MegaHack by Absollute gets released, Editor Collab standalone version for Windows will be discontinued. The reason for this is explained best by HJFod's explanation on [why BetterEdit v5 is Geode only](https://github.com/HJfod/BetterEdit/blob/main/docs/WhyGeode.md). I currently have a standalone release because that is what most people use right now, and having both versions will hopefully allow for a smooth transition from one to the other.
